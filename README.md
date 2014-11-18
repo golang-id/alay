@@ -12,6 +12,10 @@ func main() {
 }
 ```
 
+## Screencast
+
+https://www.youtube.com/watch?v=BrovQa3vOj0&feature=youtu.be
+
 ## Lisensi
 
 MIT
