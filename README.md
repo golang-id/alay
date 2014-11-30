@@ -1,6 +1,8 @@
 alay
 ====
 
+[![Build Status](https://drone.io/github.com/golang-id/alay/status.png)](https://drone.io/github.com/golang-id/alay/latest)
+
 > Paket alay menyediakan utilitas untuk mengkonversi string menjadi string alay, dan sebaliknya.
 
 ## Contoh
